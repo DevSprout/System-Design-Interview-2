@@ -2,7 +2,7 @@
 
 > 원제 : System Design Interview 2 - An Insider's Guide, Second Edition
 
-<img src="https://github.com/DevSprout/System-Design-Interview-2/assets/43809168/83f2df45-6b4c-480f-b042-c55e0d883b86" alt="한글판 책표지" style="zoom:50%;" /> <img src="./assets/origin-book-cover.jpg" alt="원서 책 표지" style="zoom: 50%;" />
+<img src="https://github.com/DevSprout/System-Design-Interview-2/assets/43809168/83f2df45-6b4c-480f-b042-c55e0d883b86"/>
 
 ### 스터디원
 
