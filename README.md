@@ -9,7 +9,6 @@
 - 권민준 ( @MinJunKweon )
 - 양희찬 ( @log-info )
 - 남해울 ( @HaeUlNam )
-- 이도현 ( @2rohyun )
 - 조민국 ( @minkukjo )
 
 ### 스터디 방식
